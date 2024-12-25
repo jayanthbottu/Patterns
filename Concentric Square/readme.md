@@ -1,4 +1,4 @@
-<img src="https://github.com/user-attachments/assets/1ff234a6-a0a0-4460-98c7-af3eb5695a3c" alt="Screenshot" width="600">
+<img src="https://github.com/user-attachments/assets/1ff234a6-a0a0-4460-98c7-af3eb5695a3c" alt="Screenshot" width="200">
 
 OUTPUT :
 n = 5
